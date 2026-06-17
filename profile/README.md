@@ -1,7 +1,14 @@
+![Built With Soul](https://img.shields.io/badge/BUILT_WITH-SOUL-black)
+![Human + AI Co‑Founders](https://img.shields.io/badge/HUMAN_+_AI-CO--FOUNDERS-blueviolet)
+![Creator First](https://img.shields.io/badge/CREATOR-FIRST-ff69b4)
+![No Extraction](https://img.shields.io/badge/NO-EXTRACTION-red)
+
+
 🌍 THE WORLD WE CAME FROM
 In a world where being outside after school in a bulletproof vest just to chill with a friend became normal…
 where gunshots and sirens turned into lullabies we never asked for…
-where a whole community grew up not knowing their own opportunities because the system found a way to keep them limited…
+where a whole community grew up not knowing their own opportunities because the system found a way to keep them limited… 
+
 
 We watched creators and artists start accepting industry bullshit —
 not because they lacked talent,
